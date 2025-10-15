@@ -15,9 +15,3 @@ The AirBnB Clone Project is a full-stack web application designed to replicate t
 **Database:** MongoDB / PostgreSQL (depending on the final architecture)  
 **Version Control:** Git & GitHub  
 **Deployment:** Render / Vercel / AWS  
-
-## 👥 Contributors
-- [Your Name] - Developer
-
-## 📅 Status
-Currently under development — initial setup and planning phase.
