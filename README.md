@@ -10,13 +10,10 @@ The AirBnB Clone Project is a full-stack web application designed to replicate t
 - Deploy the project for public access.
 
 ## 🧠 Tech Stack
-**Frontend:** React.js, Tailwind CSS  
-**Backend:** Node.js, Express.js  
-**Database:** MongoDB / PostgreSQL (depending on the final architecture)  
-**Version Control:** Git & GitHub  
-**Deployment:** Render / Vercel / AWS  
-## 🎨 UI/UX Design Planning
-### **Objective**
+Tech Stack
+Frontend: HTML, CSS, JavaScript (React or similar framework)
+Version Control: Git and GitHub
+Design Tools: Figma for UI/UX design
 Document the planning process for the UI/UX design to ensure a seamless, intuitive, and aesthetically pleasing user experience.
 
 ### **Design Goals**
@@ -76,4 +73,16 @@ Key reasons include:
 - **Efficiency:** Streamlines communication between designers and developers, reducing rework.  
 - **Scalability:** Enables quick iteration when updating themes or adding components.  
 - **User Experience:** Maintains cohesive aesthetics and readability across platforms.  
-- **Accessibility:** Supports inclusive design practices through color contrast and typography hierarchy.  
+- **Accessibility:** Supports inclusive design practices through color contrast and typography hierarchy.
+
+Project Roles and Responsibilities
+Role	Responsibilities
+Project Manager	Oversees timeline, coordinates team, manages deliverables
+Frontend Developers	Implements UI components, ensures responsive design
+Backend Developers	Builds APIs, manages database, implements business logic
+Designers	Creates mockups, maintains design system, ensures UX quality
+QA/Testers	Writes test cases, performs testing, reports bugs
+DevOps Engineers	Manages deployment, CI/CD pipeline, server infrastructure
+Product Owner	Defines requirements, prioritizes features, represents stakeholders
+Scrum Master	Facilitates agile processes, removes blockers, organizes meetings
+
