@@ -75,14 +75,47 @@ Key reasons include:
 - **User Experience:** Maintains cohesive aesthetics and readability across platforms.  
 - **Accessibility:** Supports inclusive design practices through color contrast and typography hierarchy.
 
-Project Roles and Responsibilities
-Role	Responsibilities
-Project Manager	Oversees timeline, coordinates team, manages deliverables
-Frontend Developers	Implements UI components, ensures responsive design
-Backend Developers	Builds APIs, manages database, implements business logic
-Designers	Creates mockups, maintains design system, ensures UX quality
-QA/Testers	Writes test cases, performs testing, reports bugs
-DevOps Engineers	Manages deployment, CI/CD pipeline, server infrastructure
-Product Owner	Defines requirements, prioritizes features, represents stakeholders
-Scrum Master	Facilitates agile processes, removes blockers, organizes meetings
+👥 Project Roles and Responsibilities
 
+### **Objective**
+Define and document the roles and responsibilities within the project to ensure clear ownership, accountability, and streamlined collaboration.
+
+| **Role** | **Responsibilities** |
+|-----------|----------------------|
+| **Project Manager** | Oversees timeline, coordinates team, manages deliverables |
+| **Frontend Developers** | Implements UI components, ensures responsive design |
+| **Backend Developers** | Builds APIs, manages database, implements business logic |
+| **Designers** | Creates mockups, maintains design system, ensures UX quality |
+| **QA/Testers** | Writes test cases, performs testing, reports bugs |
+| **DevOps Engineers** | Manages deployment, CI/CD pipeline, server infrastructure |
+| **Product Owner** | Defines requirements, prioritizes features, represents stakeholders |
+| **Scrum Master** | Facilitates agile processes, removes blockers, organizes meetings |
+
+---
+## 🧩 UI Component Patterns
+
+### **Objective**
+Begin exploring and defining the key UI components for the AirBnB Clone project to maintain modularity, reusability, and visual consistency.
+
+---
+
+### **Planned Components**
+
+| **Component** | **Description** | **Purpose** |
+|----------------|-----------------|--------------|
+| **Navbar** | The top navigation bar containing the logo, search input, and user profile menu. | Provides consistent access to main features such as search, account, and menu navigation across all pages. |
+| **Property Card** | A visual card displaying a property’s image, title, price, and location. | Used throughout the Property Listing View to summarize each available property efficiently. |
+| **Footer** | The bottom section of each page containing links, social icons, and support information. | Reinforces brand identity and gives users quick access to additional resources like Help, Terms, and Contact. |
+| **Filter Bar** | A horizontal filter section above listings with dropdowns for location, price, and amenities. | Enhances search usability and helps users refine their booking results easily. |
+| **Booking Form** | Interactive form for selecting dates, guests, and payment details. | Simplifies the reservation and checkout experience. |
+| **Modal / Popup** | A reusable overlay for actions like login, signup, or quick view. | Enhances interactivity while maintaining focus on key tasks. |
+
+---
+
+### **Design Philosophy**
+Each component will be:
+- **Reusable:** Built as modular units for scalability.  
+- **Responsive:** Optimized for both desktop and mobile users.  
+- **Consistent:** Styled following the Figma design system for cohesion.  
+- **Accessible:** Developed with ARIA roles and proper semantics.  
+- **Performant:** Lightweight and optimized for fast rendering.
